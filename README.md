@@ -10,4 +10,3 @@ A continuación se detallan los puntos observados en la última versión de la a
 6. **Error en Perfil:** Se está presentando un error visual o de funcionamiento dentro de la sección del perfil de usuario.
 7. **Imágenes por Defecto:** El sistema ahora trae imágenes precargadas por defecto.
 8. **Escalado de Texto:** Se ha aplicado una animación o propiedad de escalado directamente sobre el texto.
-
